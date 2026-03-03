@@ -17,7 +17,7 @@ npm install
 Start the application:
 npm start
 
-The app will open automatically in your browser at http://localhost:3000.
+The app will open automatically in your browser at http://localhost:5173.
 
 Test Credentials
 To access the protected dashboard, use the following credentials:
