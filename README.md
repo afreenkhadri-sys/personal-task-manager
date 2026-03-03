@@ -47,7 +47,7 @@ Loading: A message is displayed while the data is being fetched.
 Success: The data is mapped and displayed in a list once received.
 Error: A catch block handles network failures or API issues, displaying a friendly error message to the user so they aren't left with a blank screen.
 
-Challenges and Learnings
+Challenges and Learnings       
 Understanding how to prevent unauthorized access to specific URLs.
 Learning to manage multiple states (loading vs. error) during an API call.
 Ensuring the UI remains stable while waiting for asynchronous data.
